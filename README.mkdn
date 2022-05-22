@@ -4,4 +4,4 @@ MoonOS
 Getting started
 ---------------
 
-Vendor files of the MoonOS.
+Vendor files for MoonOS.
